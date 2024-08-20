@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucianoPereyraTema3", "LucianoPereyraTema3\LucianoPereyraTema3.csproj", "{2AF6A11B-F54A-4880-96BB-88F2616AF156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{84E2D830-9237-4CB9-9358-757263334F54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{9D927EA0-9DE0-469B-8D93-F160AF0E3439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{EE5E5CBF-2259-4D7B-8312-5495A66F4630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{D9468BF4-10FE-4945-B43D-705B564BC9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{26C4DDE7-62B8-4CA4-8A74-65570E096626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prisma.Entidades", "Prisma.Entidades\Prisma.Entidades.csproj", "{3E473B40-C826-46CD-A763-DB1765E79A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF6A11B-F54A-4880-96BB-88F2616AF156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF6A11B-F54A-4880-96BB-88F2616AF156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF6A11B-F54A-4880-96BB-88F2616AF156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF6A11B-F54A-4880-96BB-88F2616AF156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5E5CBF-2259-4D7B-8312-5495A66F4630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5E5CBF-2259-4D7B-8312-5495A66F4630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5E5CBF-2259-4D7B-8312-5495A66F4630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5E5CBF-2259-4D7B-8312-5495A66F4630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C4DDE7-62B8-4CA4-8A74-65570E096626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C4DDE7-62B8-4CA4-8A74-65570E096626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C4DDE7-62B8-4CA4-8A74-65570E096626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C4DDE7-62B8-4CA4-8A74-65570E096626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E473B40-C826-46CD-A763-DB1765E79A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E473B40-C826-46CD-A763-DB1765E79A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E473B40-C826-46CD-A763-DB1765E79A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E473B40-C826-46CD-A763-DB1765E79A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2AF6A11B-F54A-4880-96BB-88F2616AF156} = {84E2D830-9237-4CB9-9358-757263334F54}
+		{EE5E5CBF-2259-4D7B-8312-5495A66F4630} = {9D927EA0-9DE0-469B-8D93-F160AF0E3439}
+		{26C4DDE7-62B8-4CA4-8A74-65570E096626} = {D9468BF4-10FE-4945-B43D-705B564BC9EC}
+		{3E473B40-C826-46CD-A763-DB1765E79A5B} = {D9468BF4-10FE-4945-B43D-705B564BC9EC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFAE632-D0D7-43A7-A0DF-076CE38B32F2}
+	EndGlobalSection
+EndGlobal
